@@ -4,7 +4,7 @@ The repos is created to upload exercises when learning and practicing programmin
 
 ---
 ### Table of Content
-- Typescript
-  - Practice
-    - Easy
-    - Medium
+- [Typescript](./Typescript)
+  - [Practice](./Typescript/Practice)
+    - [Easy](./Typescript/Practice/easy)
+    - [Medium](./Typescript/Practice/medium)

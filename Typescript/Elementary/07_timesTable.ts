@@ -4,28 +4,23 @@
 // console.log(res);
 
 const range = (start: number, end: number) => 
-  Array.from(Array(end - start).keys()).map(x => x + start);
+  Array.from(
+           Array(end - start).keys()
+       ).map(x => x + start);
 
 function timesTable () {
+  const size: number = 12;
   let table: number[][] = [];
-  for (let i in Array.from(range(0, 13))) {
-    let temp: number[] = [];
-    if (Number(i) === 0) {
-      temp = Array.from(range(0, 13));
-      table.push(temp);
-    } else {
-      temp.push(Number(i));
-      for (let j of Array.from(range(1, 13))) {
-        temp.push(j * Number(i))
-      }
-      table.push(temp);
-    };
-    
+  table.push(range(0, size+1))
+  for (let i of range(1, size+1)) {
+    let row: number[] = [];
+    row.push(i);
+    row.push(...range(1, size+1).map(x => x*i))
+    table.push(temp);
   };
   console.log(table);
   
 };
-
 timesTable();
 
 

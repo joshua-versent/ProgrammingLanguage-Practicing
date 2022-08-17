@@ -37,9 +37,22 @@ function indexSecond(str: string): string {
     return "not found";
 };
 
+// input validation
+function inputValidation(str: string): boolean {
+    if (str.length >= 3) {
+        return true;
+    } else {
+        return false;
+    };
+};
+
+function inputValidation2(str: string): boolean {
+    return (str.length >= 3);
+};
+
 // main function
 function allAboutStrings(str: string): Array<number | string> | string {
-    if (str.length >= 3) {
+    if (inputValidation(str)) {
         return [
             getLength(str),
             firstChar(str),

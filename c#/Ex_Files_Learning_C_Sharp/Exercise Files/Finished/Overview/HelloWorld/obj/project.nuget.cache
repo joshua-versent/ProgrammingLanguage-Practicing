@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QYrK8VRtJRa1I2LQamhCDHJRO82A7xmGQq8YIGxyG0Gbw21eAjCJzbHRBxz1CC9PbE7XFViIN1AYSneJNJLfgQ==",
+  "success": true,
+  "projectFilePath": "/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/joshuacao/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/joshuacao/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/joshuacao/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

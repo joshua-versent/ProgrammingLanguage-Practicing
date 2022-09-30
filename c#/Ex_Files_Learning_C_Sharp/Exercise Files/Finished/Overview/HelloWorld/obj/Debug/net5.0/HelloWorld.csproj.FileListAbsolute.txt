@@ -1,0 +1,16 @@
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/refint/HelloWorld.dll
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
+/Users/joshuacao/Desktop/ProgrammingLanguage-Practicing/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
